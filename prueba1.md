@@ -1,5 +1,5 @@
 ---
-id: 1761084547-PXKO
+id: prueba1
 aliases:
   - prueba1
 tags:
