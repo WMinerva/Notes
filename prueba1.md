@@ -26,7 +26,7 @@ date: 10-29-2025
 
 - [x] One
 - [x] TWO
-- [-] Three
+- [ ] Three
 
 > [!WARNING]
 > hola k ace

@@ -18,3 +18,7 @@ Para mas informacion revise #example o #vector
 [[1761100322-GRXQ|prueba4]] 2 corchetes para Obsidian
 
 Esto deberia mandarme al tag #nico y al enlace [nico](1761103980-PLBB.md)
+
+Prueba de Git
+Ahora
+

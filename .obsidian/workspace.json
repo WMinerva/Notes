@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Mat102/Producto Escalar.md",
+                "file": "prueba2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Producto Escalar"
-            }
-          },
-          {
-            "id": "0811b7e30729b1ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Universidad/Mat102/Elipse y elipsoide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elipse y elipsoide"
+              "title": "prueba2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +64,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -195,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidad/Mat102/Elipse y elipsoide.md",
+                "file": "prueba2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -234,11 +219,19 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0811b7e30729b1ad",
+  "active": "40d83e9141f2bd8c",
   "lastOpenFiles": [
+    "prueba1.md",
+    "prueba2.md",
+    "la-usurpadora.md",
+    "metas.md",
+    "universidad/Mat102/Elipse y elipsoide.md",
+    "universidad/Mat102/Producto Vectorial.md",
+    "universidad/Mat102/Producto Escalar.md",
     "Universidad/Mat102/Elipse y elipsoide.md",
     "Universidad/Mat102/Producto Vectorial.md",
     "Imagen/diagram-20261027.svg",
