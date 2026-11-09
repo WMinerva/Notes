@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prueba2.md",
-                "mode": "source",
+                "file": "universidad/Mat102/Elipse y elipsoide.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prueba2"
+              "title": "Elipse y elipsoide"
             }
           }
         ]
@@ -168,9 +168,19 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
+      },
+      {
+        "id": "b845ed4e97ce59a4",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +194,9 @@
   },
   "active": "270018c9ba88db4e",
   "lastOpenFiles": [
+    "dont-starve-together/dont-starve-together-main.md",
+    "universidad/Mat102/Elipse y elipsoide.md",
+    "prueba2.md",
     "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/04_Bash scripting avanzado/04.10 Coprocesos.md",
     "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/04_Bash scripting avanzado/04.8 Procesos en background.md",
     "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/04_Bash scripting avanzado/04.7 Descriptores de ficheros (FD).md",
@@ -207,9 +220,6 @@
     "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/03_Control de flujo/03.1 Condicionales.md",
     "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/03_Control de flujo/03.0 __Qu__ es el control de flujo_.md",
     "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/01_Fundamentos de Bash/01.7 Entorno de ejecuci__n.md",
-    "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/01_Fundamentos de Bash/01.6 Tuber__as.md",
-    "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/01_Fundamentos de Bash/01.8 Exit Status.md",
-    "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/01_Fundamentos de Bash/01.2 Variables.md",
     "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/04_Bash scripting avanzado",
     "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/03_Control de flujo",
     "Bash Scripting Course/Apuntes - Sec2John - Bash Scripting Course (obsidian)/01_Fundamentos de Bash",
