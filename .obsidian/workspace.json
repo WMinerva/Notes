@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prueba2.md",
+                "file": "universidad/FIS200/Ley de Coulomb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prueba2"
+              "title": "Ley de Coulomb"
             }
           }
         ]
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prueba2.md",
+                "file": "universidad/FIS200/Ley de Coulomb.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,19 +219,28 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b7f5758ab9232c3d",
+  "active": "40d83e9141f2bd8c",
   "lastOpenFiles": [
-    "prueba1.md",
-    "prueba2.md",
+    "universidad/FIS200/Ley de Coulomb.md~",
+    "universidad/FIS200/4913",
     "la-usurpadora.md",
+    "universidad/FIS200/Ley de Coulomb.md",
+    "universidad/MAT103",
+    "universidad/FIS200",
+    "universidad/prueba.md",
+    "universidad/1773098391-GFRJ.md",
+    "universidad/MAT102/Elipse y elipsoide.md",
+    "Imagen/diagram-20261112.svg",
+    "Imagen/geogebra-elipse.svg",
+    "Imagen/1794519947290.png",
+    "prueba2.md",
+    "prueba1.md",
     "metas.md",
-    "universidad/Mat102/Elipse y elipsoide.md",
-    "universidad/Mat102/Producto Vectorial.md",
-    "universidad/Mat102/Producto Escalar.md",
+    "universidad/MAT102/Producto Vectorial.md",
+    "universidad/MAT102/Producto Escalar.md",
     "Universidad/Mat102/Elipse y elipsoide.md",
     "Universidad/Mat102/Producto Vectorial.md",
     "Imagen/diagram-20261027.svg",
