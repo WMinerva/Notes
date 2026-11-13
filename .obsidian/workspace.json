@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/FIS200/Ley de Coulomb.md",
+                "file": "universidad/FIS200/Campo Electrico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ley de Coulomb"
+              "title": "Campo Electrico"
             }
           }
         ]
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universidad/FIS200/Ley de Coulomb.md",
+                "file": "universidad/FIS200/Campo Electrico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -224,10 +224,11 @@
   },
   "active": "40d83e9141f2bd8c",
   "lastOpenFiles": [
+    "universidad/FIS200/Ley de Coulomb.md",
+    "universidad/FIS200/Campo Electrico.md",
     "universidad/FIS200/Ley de Coulomb.md~",
     "universidad/FIS200/4913",
     "la-usurpadora.md",
-    "universidad/FIS200/Ley de Coulomb.md",
     "universidad/MAT103",
     "universidad/FIS200",
     "universidad/prueba.md",
@@ -257,7 +258,6 @@
     "Universidad/Mat102",
     "Universidad",
     "Juegos",
-    "Blender",
     "Blender/Blender.md",
     "Juegos/Coins collect.md"
   ]
