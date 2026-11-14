@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d8566113d68034d4",
+        "id": "9c08529305880845",
         "type": "tabs",
         "children": [
           {
-            "id": "40d83e9141f2bd8c",
+            "id": "5ff0d8af491a83d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/FIS200/Campo Electrico.md",
+                "file": "universidad/MAT102/El Plano.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campo Electrico"
+              "title": "El Plano"
+            }
+          },
+          {
+            "id": "32405a8ea24f42e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "universidad/MAT102/La Recta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Recta"
             }
           }
         ]
@@ -33,7 +47,6 @@
       {
         "id": "c4db7510bfe7d42e",
         "type": "tabs",
-        "dimension": 66.97722567287785,
         "children": [
           {
             "id": "3cfa3b30a6b6f336",
@@ -81,27 +94,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "5f55574d620555e2",
-        "type": "tabs",
-        "dimension": 33.02277432712215,
-        "children": [
-          {
-            "id": "d287fe954a61a571",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 276.1029853820801
   },
   "right": {
     "id": "341dd9cd23ef85d4",
@@ -110,7 +106,7 @@
       {
         "id": "48309ded1689828b",
         "type": "tabs",
-        "dimension": 61.60714285714286,
+        "dimension": 29.137760158572846,
         "children": [
           {
             "id": "522c4b6ebbe0fb37",
@@ -118,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Producto Escalar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Backlinks"
             }
           },
           {
@@ -137,12 +132,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Producto Escalar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Outgoing links"
             }
           },
           {
@@ -151,13 +145,13 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
@@ -180,7 +174,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universidad/FIS200/Campo Electrico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,12 +183,29 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "243814c4025b5d07",
+        "type": "tabs",
+        "dimension": 33.201189296333,
+        "children": [
+          {
+            "id": "d287fe954a61a571",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       },
       {
         "id": "f0dad2a073079cc9",
         "type": "tabs",
-        "dimension": 38.392857142857146,
+        "dimension": 37.661050545094156,
         "children": [
           {
             "id": "7df84f67f3564e24",
@@ -211,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 337.724365234375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,43 +232,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40d83e9141f2bd8c",
+  "active": "5ff0d8af491a83d2",
   "lastOpenFiles": [
-    "universidad/FIS200/Ley de Coulomb.md",
+    "universidad/MAT102/La Recta.md",
+    "universidad/MAT102/El Plano.md",
+    "universidad/MAT102/Elipse y elipsoide.md",
+    "universidad/MAT102/Producto Escalar.md",
     "universidad/FIS200/Campo Electrico.md",
-    "universidad/FIS200/Ley de Coulomb.md~",
+    "2026-11-13.md",
+    "universidad/FIS200/Ley de Coulomb.md",
+    "Untitled.md",
+    "templates/default.md",
+    "universidad/prueba.md",
+    "universidad/1773098391-GFRJ.md",
+    "universidad/MAT102/Producto Vectorial.md",
+    "HOña.md",
+    "I]]]]]]]]I]I]I]I]I]I]I]I]]]]]]].md",
+    "hola.md",
+    "k.md",
+    "comida.md",
+    "Fuerza.md",
+    "BOla}.md",
+    "templates",
+    "universidad/FIS200/Campo Electrico.md~",
     "universidad/FIS200/4913",
+    "universidad/FIS200/Ley de Coulomb.md~",
     "la-usurpadora.md",
     "universidad/MAT103",
     "universidad/FIS200",
-    "universidad/prueba.md",
-    "universidad/1773098391-GFRJ.md",
-    "universidad/MAT102/Elipse y elipsoide.md",
     "Imagen/diagram-20261112.svg",
     "Imagen/geogebra-elipse.svg",
     "Imagen/1794519947290.png",
     "prueba2.md",
     "prueba1.md",
     "metas.md",
-    "universidad/MAT102/Producto Vectorial.md",
-    "universidad/MAT102/Producto Escalar.md",
     "Universidad/Mat102/Elipse y elipsoide.md",
     "Universidad/Mat102/Producto Vectorial.md",
     "Imagen/diagram-20261027.svg",
     "Universidad/Mat102/Producto Escalar.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "Untitled 1",
-    "Untitled",
     "Sin título.base",
     "Universidad/Mat102",
-    "Universidad",
-    "Juegos",
-    "Blender/Blender.md",
-    "Juegos/Coins collect.md"
+    "Universidad"
   ]
 }

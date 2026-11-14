@@ -1,3 +1,9 @@
+---
+id: '"Elipse y elipsoide"'
+aliases:
+tags:
+date: "Nov 13 2026"
+---
 
 
 ### Ecuación de una Elipse

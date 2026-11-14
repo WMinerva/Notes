@@ -1,3 +1,11 @@
+---
+id: '"Producto Escalar"'
+aliases:
+  - Producto punto
+tags:
+  - escalar
+date: Nov 13 2026
+---
 
 ### Maneras de calcular 
 $$ \vec{A} \cdot \vec{B} = \|\vec{A}\| \|\vec{B}\| \cos \theta $$
@@ -13,6 +21,6 @@ $$
 \text{A y B están a } = 90^\circ &\implies \text{el producto escalar es 0}
 \end{aligned}
 $$
-
+3. Para hallar la ecuacion del plano.
 
 

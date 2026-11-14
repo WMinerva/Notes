@@ -1,3 +1,9 @@
+---
+id: '"Producto Vectorial"'
+aliases:
+tags:
+date: "Nov 13 2026"
+---
 
 ### Maneras de calcular
 
