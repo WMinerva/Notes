@@ -1,0 +1,10 @@
+# Ignorar estado de ventanas y pestañas
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignorar configuración visual del gráfico
+.obsidian/graph.json
+
+# Ignorar archivos basura del sistema
+.DS_Store
+Thumbs.db
