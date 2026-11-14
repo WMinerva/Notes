@@ -6,7 +6,7 @@
   "dupNumberAlways": false,
   "dupNumberWidth": 1,
   "nameInputPosition": "end",
-  "autoRename": false,
+  "autoRename": true,
   "handleAllAttachments": false,
   "excludeExtensionPattern": "",
   "excludedFolders": "",
