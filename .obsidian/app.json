@@ -4,5 +4,6 @@
   "autoConvertHtml": true,
   "showIndentGuide": false,
   "showLineNumber": false,
-  "settingsPopoutWindow": false
+  "settingsPopoutWindow": false,
+  "showInlineTitle": true
 }

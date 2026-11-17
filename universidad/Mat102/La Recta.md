@@ -4,6 +4,7 @@ aliases:
 tags:
   - rectas
   - planos
+  - distancia
 date: Nov 14 2026
 ---
 Sean :
@@ -54,3 +55,9 @@ $$
 
 Donde los vectores normales $\vec{n}_1 = (A_1, B_1, C_1)$ y $\vec{n}_2 = (A_2, B_2, C_2)$ no son paralelos entre sí.
 
+
+## Distancia de un punto a una recta
+
+$$
+d = \frac{\left| (\vec{P_e} - \vec{P_0}) \times \vec{a} \right|}{\left| \vec{a} \right|}
+$$

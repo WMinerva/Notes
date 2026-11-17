@@ -3,6 +3,7 @@ id: '"El Plano"'
 aliases:
 tags:
   - planos
+  - distancia
 date: Nov 14 2026
 ---
 ### Definición del Plano
@@ -12,7 +13,7 @@ Un **plano** ($\pi$) en el espacio $\mathbb{R}^3$ es el conjunto de todos los pu
 * Un punto conocido $P_0(x_0, y_0, z_0)$ y un vector normal $\vec{N} = (A, B, C)$ perpendicular al plano.
 
 ---
-
+	
 ### Ecuaciones del Plano
 
 **1. Ecuación Vectorial:**
@@ -34,3 +35,9 @@ Donde $\vec{N} = (A, B, C)$ es el vector normal y $D = -(Ax_0 + By_0 + Cz_0)$.
 Si el plano corta a los ejes coordenados en los puntos $(a, 0, 0)$, $(0, b, 0)$ y $(0, 0, c)$:
 
 $$\frac{x}{a} + \frac{y}{b} + \frac{z}{c} = 1$$
+
+## Distancia de un punto a un plano
+
+$$
+d = \frac{\left| (\vec{P_e} - \vec{P_0}) \times \vec{N} \right|}{\left| \vec{N} \right|}
+$$
