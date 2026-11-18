@@ -1,0 +1,10 @@
+{
+  "enableOctaveEngine": false,
+  "octavePath": "",
+  "preferOctaveFor3dSurfaces": false,
+  "preferOctaveForOdePdeNumeric": false,
+  "useLocalLuaLatexFallback": false,
+  "lualatexPath": "",
+  "renderOutputFormat": "svg",
+  "debugMode": false
+}

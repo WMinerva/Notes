@@ -5,7 +5,6 @@ tags:
 date: "Nov 13 2026"
 ---
 
-
 ### Ecuación de una Elipse
 
 $$\frac{x^2}{9} + \frac{y^2}{4}=1$$
@@ -18,4 +17,11 @@ $$\frac{x^2}{9} + \frac{y^2}{4}=1$$
 La ecuación de un elipsoide en tres dimensiones se puede expresar de la siguiente manera:
 $$\frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1$$
 
-![[diagram-20261112.svg#invert_B]]
+
+![[Captura de pantalla 2026-11-17 151404.png#invert_B]]
+
+
+
+
+
+

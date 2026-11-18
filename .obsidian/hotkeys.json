@@ -1,0 +1,10 @@
+{
+  "visual-math-editor:insert-or-edit-equation": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ]
+}
