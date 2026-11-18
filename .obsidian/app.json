@@ -5,5 +5,6 @@
   "showIndentGuide": false,
   "showLineNumber": false,
   "settingsPopoutWindow": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true
 }
