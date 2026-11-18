@@ -1,0 +1,11 @@
+Hola Mundo
+
+139333034217096
+M:vocal de la pos 
+19:tamaño cadena
+0
+1
+2
+3
+4
+5
