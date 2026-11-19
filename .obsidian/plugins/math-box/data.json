@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "favorites": [
+    {
+      "id": "sample_optimal-control_0",
+      "name": "Cost functional",
+      "latex": "J = \\varphi\\left(\\boldsymbol{x}(t_f), t_f\\right) + \\int_{t_0}^{t_f} L(\\boldsymbol{x}, \\boldsymbol{u}, t)\\,\\mathrm{d}t",
+      "style": {
+        "fontSize": "",
+        "font": "",
+        "color": ""
+      },
+      "createdAt": 1795044714725,
+      "usedAt": 1795044714725,
+      "group": "optimal-control"
+    },
+    {
+      "id": "sample_optimal-control_1",
+      "name": "Hamiltonian",
+      "latex": "H = L + \\boldsymbol{\\lambda}^{\\mathrm{T}} \\boldsymbol{f}",
+      "style": {
+        "fontSize": "",
+        "font": "",
+        "color": ""
+      },
+      "createdAt": 1795044713725,
+      "usedAt": 1795044713725,
+      "group": "optimal-control"
+    },
+    {
+      "id": "sample_optimal-control_2",
+      "name": "Costate equation",
+      "latex": "\\dot{\\boldsymbol{\\lambda}} = -\\frac{\\partial H}{\\partial \\boldsymbol{x}}",
+      "style": {
+        "fontSize": "",
+        "font": "",
+        "color": ""
+      },
+      "createdAt": 1795044712725,
+      "usedAt": 1795044712725,
+      "group": "optimal-control"
+    },
+    {
+      "id": "sample_automatic-control_3",
+      "name": "State-space model",
+      "latex": "\\dot{\\boldsymbol{x}} = \\boldsymbol{A}\\boldsymbol{x} + \\boldsymbol{B}\\boldsymbol{u}",
+      "style": {
+        "fontSize": "",
+        "font": "",
+        "color": ""
+      },
+      "createdAt": 1795044711725,
+      "usedAt": 1795044711725,
+      "group": "automatic-control"
+    },
+    {
+      "id": "sample_automatic-control_4",
+      "name": "Transfer matrix",
+      "latex": "\\boldsymbol{G}(s) = \\boldsymbol{C}(s\\boldsymbol{I} - \\boldsymbol{A})^{-1}\\boldsymbol{B} + \\boldsymbol{D}",
+      "style": {
+        "fontSize": "",
+        "font": "",
+        "color": ""
+      },
+      "createdAt": 1795044710725,
+      "usedAt": 1795044710725,
+      "group": "automatic-control"
+    },
+    {
+      "id": "sample_automatic-control_5",
+      "name": "Closed-loop characteristic",
+      "latex": "\\det\\left(s\\boldsymbol{I} - \\boldsymbol{A} + \\boldsymbol{B}\\boldsymbol{K}\\right) = 0",
+      "style": {
+        "fontSize": "",
+        "font": "",
+        "color": ""
+      },
+      "createdAt": 1795044709725,
+      "usedAt": 1795044709725,
+      "group": "automatic-control"
+    },
+    {
+      "id": "sample_orbital-mechanics_6",
+      "name": "Vis-viva equation",
+      "latex": "v^2 = \\mu\\left(\\frac{2}{r} - \\frac{1}{a}\\right)",
+      "style": {
+        "fontSize": "",
+        "font": "",
+        "color": ""
+      },
+      "createdAt": 1795044708725,
+      "usedAt": 1795044708725,
+      "group": "orbital-mechanics"
+    },
+    {
+      "id": "sample_orbital-mechanics_7",
+      "name": "Orbital elements",
+      "latex": "a,\\ e,\\ i,\\ \\Omega,\\ \\omega,\\ \\nu",
+      "style": {
+        "fontSize": "",
+        "font": "",
+        "color": ""
+      },
+      "createdAt": 1795044707725,
+      "usedAt": 1795044707725,
+      "group": "orbital-mechanics"
+    },
+    {
+      "id": "sample_orbital-mechanics_8",
+      "name": "Kepler's third law",
+      "latex": "T = 2\\pi\\sqrt{\\frac{a^3}{\\mu}}",
+      "style": {
+        "fontSize": "",
+        "font": "",
+        "color": ""
+      },
+      "createdAt": 1795044706725,
+      "usedAt": 1795044706725,
+      "group": "orbital-mechanics"
+    }
+  ],
+  "insertMode": "display",
+  "expandMacros": true,
+  "compactDisplay": false,
+  "exportBackground": "white",
+  "sidePaneOpen": true,
+  "sidePaneWidth": 700,
+  "splitRatio": 0.45,
+  "previewFontSize": 18,
+  "editorFontSize": 13,
+  "panelRect": null,
+  "extensions": {
+    "ams": true,
+    "physics": true,
+    "mhchem": false,
+    "color": true,
+    "braket": false,
+    "boldsymbol": false,
+    "cancel": false,
+    "cases": false,
+    "gensymb": false,
+    "extpfeil": false,
+    "empheq": false,
+    "upgreek": false
+  },
+  "lang": "auto",
+  "samplesSeeded": true,
+  "favoriteGroups": [
+    "optimal-control",
+    "automatic-control",
+    "orbital-mechanics"
+  ]
+}
