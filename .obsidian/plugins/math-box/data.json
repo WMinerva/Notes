@@ -124,11 +124,16 @@
   "compactDisplay": false,
   "exportBackground": "white",
   "sidePaneOpen": true,
-  "sidePaneWidth": 700,
-  "splitRatio": 0.45,
+  "sidePaneWidth": 287.7,
+  "splitRatio": 0.4380428933800975,
   "previewFontSize": 18,
   "editorFontSize": 13,
-  "panelRect": null,
+  "panelRect": {
+    "x": 12,
+    "y": 67,
+    "width": 560,
+    "height": 780
+  },
   "extensions": {
     "ams": true,
     "physics": true,
